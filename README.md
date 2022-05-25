@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Marcilio Zanatta
 
 
-- 🔭 Hoje estou em busca da minha primeira oportunidade
+- 🔭 Hoje estou em busca da minha primeira oportunidade como Desenvolvedor Java Back-end
 - 🌱 Estudando Java
 - 📫 Contate-me no e-mail: marciliodevjava@gmail.com
 <div align="center">
