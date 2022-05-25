@@ -6,8 +6,6 @@
 - 🌱 Estudando Java
 - 📫 Contate-me no e-mail: marciliodevjava@gmail.com
 
-##
-
 <div align="center">
   <a href="https://github.com/marciliodevjava">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marciliodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
