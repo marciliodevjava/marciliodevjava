@@ -4,6 +4,11 @@
 
 - 🔭 Hoje estou em busca da minha primeira oportunidade como Desenvolvedor Java Back-end
 - 🌱 Estudando Java
+- || Front-End: HTML, CSS, JavaScript, BootStrap 
+- || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven 
+- || BD: SQL Serve, MySql, MongoDB 
+- || Repositório: Git 
+- || Metodologia: Srum
 - 📫 Contate-me no e-mail: marciliodevjava@gmail.com
 
 <div align="center">
