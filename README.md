@@ -8,7 +8,7 @@
 - || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven 
 - || BD: SQL Serve, MySql, MongoDB 
 - || Repositório: Git 
-- || Metodologia: Srum
+- || Metodologia: Scrum
 - 📫 Contate-me no e-mail: marciliodevjava@gmail.com
 
 <div align="center">
