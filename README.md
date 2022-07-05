@@ -2,7 +2,6 @@
 
 ##
 
-- 🔭 Hoje estou em busca da minha primeira oportunidade como Desenvolvedor Java Back-end
 - 🌱 Estudando Java
 - || Front-End: HTML, CSS, JavaScript, BootStrap 
 - || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven 
