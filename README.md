@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Estudando Java
+- 🌱 Apaixonado por Java s2
 - || Front-End: HTML, CSS, JavaScript, BootStrap 
 - || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven 
 - || BD: SQL Serve, MySql, MongoDB 
