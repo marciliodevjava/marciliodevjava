@@ -4,7 +4,7 @@
 
 - 🌱 Apaixonado por Java
 - || Front-End: HTML, CSS, JavaScript, BootStrap 
-- || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven, Lombok,  microsserviços, Flayway
+- || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven, Lombok,  Microsserviços, Flayway
 - || BD: SQL Serve, MySql, MongoDB 
 - || Repositório: Git Hub, Git Lab
 - || Ferramentas: jenkis, sonar
