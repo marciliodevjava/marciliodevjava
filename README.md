@@ -45,3 +45,6 @@
   <a href="https://www.linkedin.com/in/marcilio-silva-13b045193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/marciliodevjava/count.svg"/>
+</p
