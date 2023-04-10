@@ -49,5 +49,5 @@
     <img alingn="center" src="https://profile-counter.glitch.me/marciliodevjava/count.svg"/>
 </p
   
-  ![Snake animation](https://github.com/marciliodevjava/marciliodevjava/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marciliodevjava/marciliodevjava/blob/output/github-contribution-grid-snake.svg)
   
