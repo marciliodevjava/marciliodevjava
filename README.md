@@ -17,6 +17,10 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciliodevjava&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+<div>
+  <a href="http://www.github.com/marciliodevjava"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marciliodevjava&theme=dark" alt="GitHub Commits Graph" />   </a> -->
+ </div>  
+  
  ##
   
 <div style="display: inline_block"><br>
