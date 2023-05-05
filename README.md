@@ -18,7 +18,7 @@
 </div>
   
 <div>
-  <a href="http://www.github.com/marciliodevjava"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marciliodevjava&theme=white" alt="GitHub Commits Graph" /></a> 
+  <a href="http://www.github.com/marciliodevjava"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marciliodevjava&theme=black" alt="GitHub Commits Graph" /></a> 
  </div>  
   
  ##
