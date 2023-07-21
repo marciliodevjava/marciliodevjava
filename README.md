@@ -18,7 +18,7 @@
 </div>
   
 <div>
-  ![Texto alternativo da imagem](https://raw.githubusercontent.com/marciliodevjava/marciliodevjava/assets/103801733/40ae5e63-cd72-43d2-ab7f-fa093f7b7e04.png)
+  !(https://raw.githubusercontent.com/marciliodevjava/marciliodevjava/assets/103801733/40ae5e63-cd72-43d2-ab7f-fa093f7b7e04.png)
  </div>  
   
  ##
