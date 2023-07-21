@@ -5,7 +5,6 @@
 - 🌱 Apaixonado por Java
 - Certificação:
 || Scrum Fundamentals Certified (SFC™)
-
 || Front-End: HTML, CSS, JavaScript, BootStrap 
 || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven, Lombok, Kafka, Microsserviços, Flayway
 || BD: SQL Serve, MySql, MongoDB 
