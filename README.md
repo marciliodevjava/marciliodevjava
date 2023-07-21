@@ -3,12 +3,15 @@
 ##
 
 - 🌱 Apaixonado por Java
-- || Front-End: HTML, CSS, JavaScript, BootStrap 
-- || Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven, Lombok,  Microsserviços, Flayway
-- || BD: SQL Serve, MySql, MongoDB 
-- || Repositório: Git Hub, Git Lab
-- || Ferramentas: jenkis, sonar
-- || Metodologia: Scrum
+- Certificação:
+|| Scrum Fundamentals Certified (SFC™)
+
+|| Front-End: HTML, CSS, JavaScript, BootStrap 
+|| Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven, Lombok, Kafka, Microsserviços, Flayway
+|| BD: SQL Serve, MySql, MongoDB 
+|| Repositório: Git Hub, Git Lab
+|| Ferramentas: jenkis, sonar
+|| Metodologia: Scrum
 - 📫 Contate-me no e-mail: marciliodevjava@gmail.com
 
 <div align="center">
@@ -16,10 +19,6 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=marciliodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciliodevjava&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div>
-  ![1689175414684](https://github.com/marciliodevjava/marciliodevjava/assets/103801733/138ab010-3942-4dae-816c-e96f574c1811)
- </div>  
   
  ##
   
