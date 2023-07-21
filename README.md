@@ -18,7 +18,7 @@
 </div>
   
 <div>
-  <img align="center" alt="Marcilio-Java" height="30" width="40" src="https://raw.githubusercontent.com/marciliodevjava/marciliodevjava/assets/103801733/40ae5e63-cd72-43d2-ab7f-fa093f7b7e04.png">
+  ![1689175414684](https://github.com/marciliodevjava/marciliodevjava/assets/103801733/138ab010-3942-4dae-816c-e96f574c1811)
  </div>  
   
  ##
