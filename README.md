@@ -18,7 +18,9 @@
 </div>
   
 <div>
-  <a href="http://www.github.com/marciliodevjava"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marciliodevjava&theme=merko" alt="GitHub Commits Graph" /></a> 
+  <a href="http://www.github.com/marciliodevjava"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marciliodevjava&theme=merko" alt="GitHub Commits Graph"/></a> 
+  ![1689175414684](https://github.com/marciliodevjava/marciliodevjava/assets/103801733/b8f4950a-73c3-49e9-9d42-ed6bcc83ee04)
+
  </div>  
   
  ##
@@ -47,7 +49,6 @@
 </a>
   <a href = "mailto:marciliodevjava@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcilio-silva-13b045193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    ![1689175414684](https://github.com/marciliodevjava/marciliodevjava/assets/103801733/79e84e4d-9c54-4c49-8955-7913301fc3c9)
 
 </div>
 
