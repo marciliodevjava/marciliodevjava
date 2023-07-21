@@ -18,7 +18,7 @@
 </div>
   
 <div>
-  <a>[1689175414684](https://github.com/marciliodevjava/marciliodevjava/assets/103801733/b8f4950a-73c3-49e9-9d42-ed6bcc83ee04</a>
+  ![Texto alternativo da imagem](https://raw.githubusercontent.com/marciliodevjava/marciliodevjava/assets/103801733/40ae5e63-cd72-43d2-ab7f-fa093f7b7e04.png)
  </div>  
   
  ##
