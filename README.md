@@ -47,6 +47,8 @@
 </a>
   <a href = "mailto:marciliodevjava@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcilio-silva-13b045193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    ![1689175414684](https://github.com/marciliodevjava/marciliodevjava/assets/103801733/79e84e4d-9c54-4c49-8955-7913301fc3c9)
+
 </div>
 
 <p align="center">
