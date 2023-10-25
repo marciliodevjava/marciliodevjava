@@ -6,7 +6,8 @@
   
 || Certificação: Scrum Fundamentals Certified (SFC™), AWS Certified Cloud Practitioner (CLF-C01), Oracle Cloud Infrastructure 2023 Certified Foundations Associate(1Z0-1085-23)  
 || Front-End: HTML, CSS, JavaScript, BootStrap   
-|| Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven, Lombok, Kafka, Microsserviços, Flayway  
+|| Back-end: Java, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Maven, Lombok, Kafka, Microsserviços, Flayway, Jacoco  
+|| Cloud: AWS e Oracle
 || BD: SQL Serve, MySql, MongoDB   
 || Repositório: Git Hub, Git Lab    
 || Ferramentas: jenkis, sonar  
