@@ -5,7 +5,8 @@
 - 🌱 Apaixonado por Java   
 - 🌱 E aprendendo a gostar de Python
   
-|| Certificação: Scrum Fundamentals Certified (SFC™)       
+|| Certificação:    
+-                Scrum Fundamentals Certified (SFC™)       
 -                AWS Certified Cloud Practitioner (CLF-C01)       
 -                Oracle Cloud Infrastructure 2023 Certified Foundations Associate(1Z0-1085-23)       
                             
