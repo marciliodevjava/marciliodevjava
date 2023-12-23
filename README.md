@@ -2,8 +2,8 @@
 
 ##
 
-- 🌱 Apaixonado por Java   
-- 🌱 E aprendendo a gostar de Python
+- 🌱 Apaixonado por Java.   
+- 🌱 E aprendendo a gostar de Python.
   
 || Certificação:    
 -                Scrum Fundamentals Certified (SFC™)       
