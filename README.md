@@ -18,7 +18,7 @@
 || Ferramentas: jenkis, sonar  
 || Metodologia: Scrum
 
-- 📫 Contate-me no e-mail: marciliodevjava@gmail.com
+- Contate-me no e-mail: 📫 marciliodevjava@gmail.com 📫
 
 <div align="center">
   <a href="https://github.com/marciliodevjava">
