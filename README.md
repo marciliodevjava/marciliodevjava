@@ -16,7 +16,7 @@
 || BD: SQL Serve, MySql, MongoDB   
 || Repositório: Git Hub, Git Lab    
 || Ferramentas: jenkis, sonar  
-|| Metodologia: Scrum
+|| Metodologia: Scrum, Cascata
 
 - Contate-me no e-mail: 📫 marciliodevjava@gmail.com 📫
 
