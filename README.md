@@ -1,22 +1,23 @@
-### Olá, Eu sou o Marcilio Zanatta
+### Olá, Eu sou o Marcilio Zanatta 👋
 
 ##
 
 - 🌱 Apaixonado por Java.   
 - 🌱 E aprendendo a gostar de Python.
   
-|| Certificação:    
-                 Scrum Fundamentals Certified (SFC™)       
-                 AWS Certified Cloud Practitioner (CLF-C01)       
-                 Oracle Cloud Infrastructure 2023 Certified Foundations Associate(1Z0-1085-23)       
+|| Certificações:    
+   - Scrum Fundamentals Certified (SFC™)       
+   - AWS Certified Cloud Practitioner (CLF-C01)       
+   - Oracle Cloud Infrastructure 2023 Certified Foundations Associate (1Z0-1085-23)       
                             
-|| Front-End: HTML, CSS, JavaScript, BootStrap     
-|| Back-end: Java, Python, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernte, Spring Boot, Flask, SQLAlchemy, Maven, Lombok, Kafka, Microsserviços, Flayway, Jacoco  
-|| Cloud: AWS e Oracle
-|| BD: SQL Serve, MySql, MongoDB   
-|| Repositório: Git Hub, Git Lab    
-|| Ferramentas: jenkis, sonar  
-|| Metodologia: Scrum, Cascata
+|| Stack Técnica:  
+   - **Front-End:** HTML, CSS, JavaScript, BootStrap     
+   - **Back-End:** Java, Python, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernate, Spring Boot, Flask, SQLAlchemy, Maven, Lombok, Kafka, Microsserviços, Flyway, Jacoco  
+   - **Cloud:** AWS e Oracle
+   - **Banco de Dados:** SQL Server, MySQL, MongoDB   
+   - **Repositório:** GitHub, GitLab    
+   - **Ferramentas:** Jenkins, Sonar  
+   - **Metodologia:** Scrum, Cascata
 
 - Contate-me no e-mail: 📫 marciliodevjava@gmail.com 📫
 
