@@ -2,9 +2,9 @@
 
 ##
 
-- 🌱 Apaixonado por Java.   
-- 🌱 E aprendendo a gostar de Python.
-  
+- 🌱 Apaixonado por Java. 🌱   
+- 🌱 E aprendendo a gostar de Python. 🌱   
+   
 || Certificações:    
    - Scrum Fundamentals Certified (SFC™)       
    - AWS Certified Cloud Practitioner (CLF-C01)       
