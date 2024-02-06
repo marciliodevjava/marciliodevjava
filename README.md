@@ -19,7 +19,7 @@
    - **Ferramentas:** Jenkins, Sonar  
    - **Metodologia:** Scrum, Cascata
 
-- Contate-me no e-mail: 📫 marciliodevjava@gmail.com 📫
+- **Contate-me no e-mail:** 📫 marciliodevjava@gmail.com 📫
 
 <div align="center">
   <a href="https://github.com/marciliodevjava">
