@@ -14,7 +14,7 @@
    - **Front-End:** HTML, CSS, JavaScript, BootStrap     
    - **Back-End:** Java, Python, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernate, Spring Boot, Flask, SQLAlchemy, Maven, Lombok, Kafka, Microsserviços, Flyway, Jacoco  
    - **Cloud:** AWS e Oracle
-   - **Banco de Dados:** SQL Server, MySQL, MongoDB   
+   - **Banco de Dados:** SQL Server, MySQL, MongoDB, PostgreSQL  
    - **Repositório:** GitHub, GitLab    
    - **Ferramentas:** Jenkins, Sonar  
    - **Metodologia:** Scrum, Cascata
