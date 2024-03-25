@@ -8,7 +8,8 @@
 || Certificações:    
    - Scrum Fundamentals Certified (SFC™)       
    - AWS Certified Cloud Practitioner (CLF-C01)       
-   - Oracle Cloud Infrastructure 2023 Certified Foundations Associate (1Z0-1085-23)       
+   - Oracle Cloud Infrastructure 2023 Certified Foundations Associate (1Z0-1085-23)
+   - Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)    
                             
 || Stack Técnica:  
    - **Front-End:** HTML, CSS, JavaScript, BootStrap     
