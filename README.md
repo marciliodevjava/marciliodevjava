@@ -2,8 +2,9 @@
 
 ##
 
-- 🌱 Apaixonado por Java. 🌱   
-- 🌱 E aprendendo a gostar de Python. 🌱   
+- 🌱 Apaixonado por Java. 🌱
+- 🌱 Gosto de Python. 🌱   
+- 🌱 E aprendendo a gostar de Kotlin. 🌱   
    
 || Certificações:    
    - Scrum Fundamentals Certified (SFC™)       
