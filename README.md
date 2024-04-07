@@ -6,7 +6,7 @@
 - 🌱 Gosto de Python. 🌱   
 - 🌱 E aprendendo a gostar de Kotlin. 🌱   
    
-|| Certificações:    
+|| **Certificações**:    
    - Scrum Fundamentals Certified (SFC™)       
    - AWS Certified Cloud Practitioner (CLF-C01)       
    - Oracle Cloud Infrastructure 2023 Certified Foundations Associate (1Z0-1085-23)
