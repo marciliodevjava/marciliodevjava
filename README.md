@@ -25,10 +25,10 @@
 
 - **Contate-me no e-mail:** 📫 marciliodevjava@gmail.com 📫
 
-<div>
-<a href="https://github.com/marciliodevjava">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marciliodevjava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciliodevjava&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/marciliodevjava">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marciliodevjava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciliodevjava&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  ##
@@ -67,3 +67,5 @@
     <img alingn="center" src="https://profile-counter.glitch.me/marciliodevjava/count.svg"/>
 </p
   
+![Snake animation](https://github.com/marciliodevjava/marciliodevjava/blob/output/github-contribution-grid-snake.svg)
+
