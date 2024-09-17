@@ -4,7 +4,7 @@
 
 - 🌱 Apaixonado por Java. 🌱 
 - 🌱 Gosto de Python. 🌱    
-- 🌱 E aprendendo a gostar de Kotlin. 🌱
+- 🌱 E aprendendo a gostar de Kotlin e Android. 🌱
   
 - Analista de Sistemas Pleno, focado em desenvolvimento de soluções backend com Java e Python, utilizando Spring Boot e Flask. Especializado em integração de sistemas com AWS, construção de microserviços e gerenciamento de bancos de dados SQL Server e DynamoDB. Segue metodologias ágeis como Scrum e Cascata. Experiência com ferramentas DevOps como GitLab, Jenkins e Sonar. Apaixonado por criar soluções eficientes e escaláveis.
    
