@@ -17,6 +17,7 @@
 || Stack Técnica:  
    - **Front-End:** HTML, CSS, JavaScript, BootStrap     
    - **Back-End:** Java, Reflect, Python, Kotlin, JDBC, JPA, Java Swing, JUnit5, JavaFX, Hibernate, Spring Boot, Flask, SQLAlchemy, Pandas, Maven, Lombok, Kafka, Microsserviços, Flyway, Jacoco.
+   - **Mobile:** Android, Kotlin.
    - **Cloud:** AWS e Oracle.
    - **Banco de Dados:** SQL Server, MySQL, MongoDB, PostgreSQL.  
    - **Repositório:** GitHub, GitLab.    
